@@ -17,3 +17,10 @@
 	- 90 coding challenges completed
 	- 90 - 69 = 21 coding challenges completed this day
 	- I got stuck with CSS offsets :(
+
+### Day 4: February 13, 2019
+	
+	- Introduction to the Applied Visual Design completed in [FreeCodeCamp](https://freecodecamp.org)
+	- 123 coding challenges completed
+	- 123 - 90 = 33 coding challenges completed this day
+	- Basic Color Theory and Animations 
