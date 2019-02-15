@@ -24,3 +24,9 @@
 	- 123 coding challenges completed
 	- 123 - 90 = 33 coding challenges completed this day
 	- Basic Color Theory and Animations 
+
+### Day 5: February 14, 2019
+	
+	- Introduction to the Applied Accessibility completed in [FreeCodeCamp](https://freecodecamp.org)
+	- 145 coding challenges completed
+	- I learned also about screen readers
