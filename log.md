@@ -30,3 +30,8 @@
 	- Introduction to the Applied Accessibility completed in [FreeCodeCamp](https://freecodecamp.org)
 	- 145 coding challenges completed
 	- I learned also about screen readers
+
+### Day 6: February 15, 2019
+	
+	- Introduction to the Responsive Web Design completed and basic Flexbox in [FreeCodeCamp](https://freecodecamp.org)
+	- 156 coding challenges completed
