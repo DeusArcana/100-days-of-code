@@ -35,3 +35,9 @@
 	
 	- Introduction to the Responsive Web Design completed and basic Flexbox in [FreeCodeCamp](https://freecodecamp.org)
 	- 156 coding challenges completed
+
+### Day 7: February 16, 2019
+	
+	- CSS Flexbox and CSS Grid completed in [FreeCodeCamp](https://freecodecamp.org)
+	- 188 coding challenges completed
+	- Tomorrow projects start!!!
