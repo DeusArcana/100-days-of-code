@@ -40,4 +40,9 @@
 	
 	- CSS Flexbox and CSS Grid completed in [FreeCodeCamp](https://freecodecamp.org)
 	- 188 coding challenges completed
-	- Tomorrow projects start!!!
+	- Projects start tomorrow!!!
+
+### Day 8: February 17, 2019
+	
+	- Currently working on Tribute Page Challenge in [FreeCodeCamp](https://freecodecamp.org)
+	- It will be a tribute page to George Carlin
