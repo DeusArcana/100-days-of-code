@@ -46,3 +46,8 @@
 	
 	- Currently working on Tribute Page Challenge in [FreeCodeCamp](https://freecodecamp.org)
 	- It will be a tribute page to George Carlin
+
+### Day 9: February 18, 2019
+	
+	- Currently working on Tribute Page Challenge in [FreeCodeCamp](https://freecodecamp.org)
+	- It's almost finish, just a couple of details
