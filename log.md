@@ -52,7 +52,7 @@
 	- Currently working on Tribute Page Challenge in [FreeCodeCamp](https://freecodecamp.org)
 	- It's almost finish, just a couple of details
 
-### Day 10: February 18, 2019
+### Day 10: February 19, 2019
 	
 	- Tribute Page Challenge completed in [FreeCodeCamp](https://freecodecamp.org)
 	- I felt uncomfortable using codepen.io so I switched to VSCode with LiveServer
