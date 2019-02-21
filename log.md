@@ -57,3 +57,8 @@
 	- Tribute Page Challenge completed in [FreeCodeCamp](https://freecodecamp.org)
 	- I felt uncomfortable using codepen.io so I switched to VSCode with LiveServer
 	- Just a little more of Data and CSS
+
+### Day 11: February 20, 2019
+	
+	- Currently working on Survey Form Challenge in [FreeCodeCamp](https://freecodecamp.org)
+	- Just starting :D
