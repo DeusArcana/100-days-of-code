@@ -62,3 +62,8 @@
 	
 	- Currently working on Survey Form Challenge in [FreeCodeCamp](https://freecodecamp.org)
 	- Just starting :D
+
+### Day 12: February 21, 2019
+	
+	- Currently working on Survey Form Challenge in [FreeCodeCamp](https://freecodecamp.org)
+	- Working on HTML forms 
