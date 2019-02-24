@@ -72,3 +72,8 @@
 	
 	- Currently working on Survey Form Challenge in [FreeCodeCamp](https://freecodecamp.org)
 	- All test passed
+
+### Day 14: February 23, 2019
+	
+	- Currently working on Survey Form Challenge in [FreeCodeCamp](https://freecodecamp.org)
+	- Having struggles with CSS, I need to go back and come back again :(
