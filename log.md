@@ -77,3 +77,8 @@
 	
 	- Currently working on Survey Form Challenge in [FreeCodeCamp](https://freecodecamp.org)
 	- Having struggles with CSS, I need to go back and come back again :(
+
+### Day 15: February 24, 2019
+	
+	- Taking again CSS lessons on [FreeCodeCamp](https://freecodecamp.org)
+	- I was checking for courses on EDX but they will end soon :(
