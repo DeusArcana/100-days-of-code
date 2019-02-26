@@ -82,3 +82,8 @@
 	
 	- Taking again CSS lessons on [FreeCodeCamp](https://freecodecamp.org)
 	- I was checking for courses on EDX but they will end soon :(
+
+### Day 16: February 25, 2019
+	
+	- Taking again CSS lessons on [FreeCodeCamp](https://freecodecamp.org)
+	- Media Query is one of my weak points
