@@ -87,3 +87,9 @@
 	
 	- Taking again CSS lessons on [FreeCodeCamp](https://freecodecamp.org)
 	- Media Query is one of my weak points
+
+### Day 17: February 27, 2019
+	
+	- Survey Form Challenge completed in [FreeCodeCamp](https://freecodecamp.org)
+	- I had a lot of struggles with CSS, but I'm getting better
+	- Yesterday I couldn't make the challenge due to internet issues
