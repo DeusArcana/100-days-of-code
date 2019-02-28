@@ -1,5 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,500);
-
 html,
 body {
   background-color: #a9d7d1;
@@ -53,7 +51,7 @@ header {
   width: 40px;
 }
 
-.userRatings,
+.userDevices,
 input[type="checkbox"] {
   float: left;
   margin-right: 5px;

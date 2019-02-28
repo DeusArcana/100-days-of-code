@@ -8,68 +8,82 @@
 </head>
 <body>
     <main id="main">
-
         <h1 id="title">Survey Form</h1>
         <div id="form-outer">
-        <p  id="description">Let me know your music taste</p>
-        <form action="" id="survey-form">
-            <label class="labels" for="name" id="name-label">Name</label>
-            <input class="input-field" type="text" id="name" placeholder="Enter your name" required>
-            <label class="labels" for="email" id="email-label">Email</label>
-            <input class="input-field" type="email" id="email" placeholder="Enter your email" required>
-            <label class="labels" for="age" id="number-label">Age</label>
-            <input class="input-field" type="number" id="number" placeholder="Enter your age" min="16" max="120">
+            <p id="description">Let me know your music taste</p>
+            <form action="GET" id="survey-form">
+                <div class="box-container">
+                    <label class="labels" for="name" id="name-label">Name</label>
+                    <div class="rightTab">
+                        <input class="input-field" type="text" id="name" placeholder="Enter your name" required>
+                    </div>
+                </div>
+                <div class="box-container">
+                    <label class="labels" for="email" id="email-label">Email</label>
+                    <div class="rightTab">
+                        <input class="input-field" type="email" id="email" placeholder="Enter your email" required>
+                    </div>
+                </div>
+                <div class="box-container">
+                        <label class="labels" for="age" id="number-label">Age</label>
+                    <div class="rightTab">
+                        <input class="input-field" type="number" id="number" placeholder="Enter your age" min="16" max="120">
+                    </div>
+                </div>
+                
+                <div box-container="box-container">
+                    <div class="labels">
+                        <label for="genre">Select a genre:</label>
+                    </div>
+                    <div class="rightTab">
+                        <select name="genre" id="dropdown" class="dropdown">
+                            <option disabled value>Select an option</option>
+                            <option value="Rock">Rock</option>
+                            <option value="Metal">Metal</option>
+                            <option value="Pop">Pop</option>
+                            <option value="Other">Other</option>
+                        </select>
+                    </div>
+                </div>
 
-            <label for="dropdown">Select a genre:</label>
-            <select name="genre" placeholder="Select an option" id="dropdown" class="dropdown">
-                <option value="Rock">Rock</option>
-                <option value="Metal">Metal</option>
-                <option value="Pop">Pop</option>
-            </select>
+                <div class="box-container">
+                    <div class="labels">
+                        <label for="userRating"> For how much time do you listen to music?</label>
+                    </div>
+                    <div class="rightTab">
+                        <ul style="list-style: none;">
+                            <li class="radio"><label>1 - 2 hours<input name="radio-buttons" value="1"  type="radio" class="userRatings" ></label></li>
+                            <li class="radio"><label>3 - 4 hours<input name="radio-buttons" value="2"  type="radio" class="userRatings" ></label></li>
+                            <li class="radio"><label>More than 5 hours<input name="radio-buttons" value="3"  type="radio" class="userRatings" ></label></li>
+                        </ul>
+                    </div>
+                </div>
 
-            <ul id="radio-group" style="list-style: none;">
-                <p>For how much time do you listen to music?</p>
-                <li>
-                    <input class="radio" type="radio" value="1" name="radio-buttons" id="1st-option">
-                    <label class="labels" for="1st-option">1 - 2 hours</label>
-                </li>
-                <li>
-                    <input class="radio" type="radio" value="2" name="radio-buttons" id="2st-option">
-                    <label class="labels" for="2st-option">3 - 4 hours</label>
-                </li>
-                <li>
-                    <input class="radio" type="radio" value="3" name="radio-buttons" id="3st-option">
-                    <label class="labels" for="3st-option">More than 5 hours</label>
-                </li>
-            </ul>
-            <ul id="checkbox-group" style="list-style: none;">  
-                <p>In which device do you listen music?</p>
-                <li>
-                    <label class="labels">
-                        <input class="checkbox" type="checkbox" value="a" name="devices">Computer
-                    </label>
-                </li>
-                <li>
-                    <label class="labels">
-                        <input class="checkbox" type="checkbox" value="b" name="devices">Smartphone
-                    </label>
-                </li>
-                <li>
-                    <label class="labels">
-                        <input class="checkbox" type="checkbox" value="c" name="devices">MP3 Player
-                    </label>    
-                </li>
-                <li>
-                    <label class="labels">
-                        <input class="checkbox" type="checkbox" value="d" name="devices">Other
-                    </label>
-                </li>
-            </ul>
-            
-            <p>Any comments about this survey?</p>
-            <textarea name="comments" id="comments" cols="30" rows="10" placeholder="Write your comments right here..."></textarea>
-            <input class="submit" type="submit" id="submit">
-        </form>
+                <div class="box-container">
+                    <div class="labels">
+                        <label for="preferences">In which device do you listen your music?<br>(Check all that apply): </label>
+                    </div>
+                    <div class="rightTab">
+                        <ul id="preferences" style="list-style: none;">
+                            <li class="checkbox"><label><input name="prefer" value="computer" type="checkbox" class="userDevices">Computer</label></li>
+                            <li class="checkbox"><label><input name="prefer" value="smarphone" type="checkbox" class="userDevices">Smartphone</label></li>
+                            <li class="checkbox"><label><input name="prefer" value="mp3player" type="checkbox" class="userDevices">Mp3 Player</label></li>
+                            <li class="checkbox"><label><input name="prefer" value="other" type="checkbox" class="userDevices">Other</label></li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div class="box-container">
+                    <div class="labels">
+                        <p>Any comments about this survey?</p>
+                    </div>
+                    <div class="rightTab">
+                        <textarea name="comments" id="comments" cols="30" rows="10" placeholder="Write your comments right here..."></textarea>
+                    </div>
+                </div>
+
+                <input class="submit" type="submit" id="submit">
+            </form>
         </div>
     </main>
 </body>
