@@ -93,3 +93,10 @@
 	- Survey Form Challenge completed in [FreeCodeCamp](https://freecodecamp.org)
 	- I had a lot of struggles with CSS, but I'm getting better
 	- Yesterday I couldn't make the challenge due to internet issues
+
+### Day 18: February 28, 2019
+	
+	- Moved into Product Landing Page Challenge in [FreeCodeCamp](https://freecodecamp.org)
+	- Due to my CSS level, I'm taking the course [CSS Basics](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2018/course/) in EDX
+	- I have to finish this course in before April 1st, after than I will not be able to access to the course content
+	- This course presents some pages for inspiration, like [CSS Zen Garden](http://www.csszengarden.com)
