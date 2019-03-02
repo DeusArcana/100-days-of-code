@@ -100,3 +100,8 @@
 	- Due to my CSS level, I'm taking the course [CSS Basics](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2018/course/) in EDX
 	- I have to finish this course in before April 1st, after than I will not be able to access to the course content
 	- This course presents some pages for inspiration, like [CSS Zen Garden](http://www.csszengarden.com)
+
+### Day 19: March 1, 2019
+	
+	- Learning about positioning and layouts on [CSS Basics](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2018/course/) on EDX
+	- Something really interesting about margins on [What You Should Know About Collapsing Margins](https://css-tricks.com/what-you-should-know-about-collapsing-margins/)
