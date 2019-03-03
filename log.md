@@ -105,3 +105,8 @@
 	
 - Learning about positioning and layouts on [CSS Basics](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2018/course/) on EDX
 - Something really interesting about margins on [What You Should Know About Collapsing Margins](https://css-tricks.com/what-you-should-know-about-collapsing-margins/)
+
+### Day 20: March 2, 2019
+	
+- Currently working on Product Landing Page Challenge in [FreeCodeCamp](https://freecodecamp.org)
+- Also doing exercises on [CSS Basics](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2018/course/) in EDX
