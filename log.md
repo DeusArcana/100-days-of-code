@@ -110,3 +110,8 @@
 	
 - Currently working on Product Landing Page Challenge in [FreeCodeCamp](https://freecodecamp.org)
 - Also doing exercises on [CSS Basics](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2018/course/) in EDX
+
+### Day 21: March 3, 2019
+	
+- Currently working on Product Landing Page Challenge in [FreeCodeCamp](https://freecodecamp.org)
+- Practicing alignment according to [CSS Basics](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2018/course/) in EDX
