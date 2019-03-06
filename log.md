@@ -116,8 +116,12 @@
 - Currently working on Product Landing Page Challenge in [FreeCodeCamp](https://freecodecamp.org)
 - Practicing alignment according to [CSS Basics](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2018/course/) in EDX
 
-
 ### Day 22: March 4, 2019
 	
 - Currently working on Product Landing Page Challenge in [FreeCodeCamp](https://freecodecamp.org)
 - Having a lot of struggles with CSS
+
+### Day 23: March 5, 2019
+	
+- Currently working on Product Landing Page Challenge in [FreeCodeCamp](https://freecodecamp.org)
+- I made a mess so, I started again. It seems working now.
