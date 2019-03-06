@@ -8,26 +8,35 @@
 </head>
 <body>
     <main>
-        <header id="header">
-            <img src="#" alt="Company Image" id="header-img">
-            <h1>Product Landing page</h1>
-            <nav id="nav-bar">
-                <a href="#video-element"><li class="nav-link">Video Element</li></a>
-                <a href="#form-section"><li class="nav-link">Form Section</li></a>
-                <a href="#"><li class="nav-link">Element 3</li></a>
-            </nav>
-            <section id="video-element">
-                <video src="#" id="video"></video>
-            </section>
-            <section id="form-section">
-                <form action="https://www.freecodecamp.com/email-submit" id="form">
-                    <label for="email" id="email-label"></label>
-                    <input type="email" name="email" id="email" placeholder="Enter your email here..." required>
+        <header id="header" class="container">
+            <div id="header-img">
+                <img src="#" alt="Company Image" >
+            </div>
 
-                    <input type="submit" class="submit-button" id="submit">
-                </form>
-            </section>
+            <div id="header-title">
+                <h1>Product Landing page</h1>
+            </div>
+
+            <nav id="nav-bar">
+                <ul style="list-style: none;">
+                    <a href="#video-element"><li class="nav-link">Video Element</li></a>
+                    <a href="#form-section"><li class="nav-link">Form Section</li></a>
+                    <a href="#info-section"><li class="nav-link">Info Section</li></a>
+                </ul>
+            </nav>
+            
         </header>
+
+        <section id="video-element">
+            <video src="#" id="video"></video>
+        </section>
+        <section id="form-section">
+            <form action="https://www.freecodecamp.com/email-submit" id="form">
+                <label for="email" id="email-label"></label>
+                <input type="email" name="email" id="email" placeholder="Enter your email here..." required>
+                <input type="submit" class="submit-button" id="submit">
+            </form>
+        </section>
     </main>
 </body>
 </html>

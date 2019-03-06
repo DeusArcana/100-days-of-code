@@ -1,3 +1,44 @@
+@import 'https://fonts.googleapis.com/css?family=Lato:400,700';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
 body {
-    display: block;
+    font-family: 'Lato', sans-serif;
+}
+
+header {
+  position: fixed;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+#header-img {
+  width: 15%;
+}
+
+#header-title {
+  width: 30%;
+}
+
+nav {
+  width: 50%;
+}
+
+nav ul {
+  text-align: center;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  padding: 0 3em;
+  line-height: 3em;
 }
