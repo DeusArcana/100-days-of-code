@@ -125,3 +125,8 @@
 	
 - Currently working on Product Landing Page Challenge in [FreeCodeCamp](https://freecodecamp.org)
 - I made a mess so, I started again. It seems working now.
+
+### Day 24: March 6, 2019
+	
+- Currently working on Product Landing Page Challenge in [FreeCodeCamp](https://freecodecamp.org)
+- Almost finished
