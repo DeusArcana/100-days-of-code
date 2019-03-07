@@ -12,6 +12,10 @@ body {
 
 header {
   position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  float: left;
 }
 
 .container {
@@ -29,7 +33,7 @@ header {
 }
 
 nav {
-  width: 50%;
+  width: 65%;
 }
 
 nav ul {
@@ -41,4 +45,15 @@ nav ul li {
   display: inline-block;
   padding: 0 3em;
   line-height: 3em;
+}
+
+#video-element {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+iframe {
+  max-width: 560px;
+  width: 100%;
 }
