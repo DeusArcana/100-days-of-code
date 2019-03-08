@@ -9,34 +9,42 @@
 <body>
     <main>
         <header id="header" class="container">
-            <div id="header-img">
-                <img src="#" alt="Company Image" >
+            <div >
+                <img id="header-img" src="#" alt="Company Image" >
             </div>
-
+        
             <div id="header-title">
-                <h1>Product Landing page</h1>
+                <h1 id="title">Product Landing page</h1>
             </div>
-
+        
             <nav id="nav-bar">
                 <ul style="list-style: none;">
-                    <a href="#video-element"><li class="nav-link">Video Element</li></a>
-                    <a href="#form-section"><li class="nav-link">Form Section</li></a>
-                    <a href="#info-section"><li class="nav-link">Info Section</li></a>
+                    <li><a href="#video-element" class="nav-link">Video Element</a></li>
+                    <li><a href="#form-section" class="nav-link"> Form Section</a></li>
+                    <li><a href="#info-section" class="nav-link">Info Section</a></li>
                 </ul>
             </nav>
-            
+                    
         </header>
 
-        <section id="video-element">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/yVpbFMhOAwE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <section id="info-section">
+            <p id="description">Null</p>
         </section>
-        <section id="form-section">
+
+        <section id="form-section" class="container">
             <form action="https://www.freecodecamp.com/email-submit" id="form">
+                <label for="name" id="name-label"></label>
+                <input type="text" name="name" id="name" placeholder="Enter your name here..." required>
                 <label for="email" id="email-label"></label>
                 <input type="email" name="email" id="email" placeholder="Enter your email here..." required>
                 <input type="submit" class="submit-button" id="submit">
             </form>
         </section>
+        
+        <section id="video-element">
+            <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/yVpbFMhOAwE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </section>
+        
     </main>
 </body>
 </html>

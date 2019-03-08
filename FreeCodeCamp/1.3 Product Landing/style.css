@@ -1,13 +1,10 @@
 @import 'https://fonts.googleapis.com/css?family=Lato:400,700';
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-
 body {
     font-family: 'Lato', sans-serif;
+    display: inline;
+    margin: 0;
+    padding: 0;
 }
 
 header {
@@ -16,12 +13,16 @@ header {
   top: 0;
   right: 0;
   float: left;
+  @media (max-width: 600px) {
+    flex-wrap: wrap;
+  }
 }
 
 .container {
   display: flex;
   flex-direction: row;
   align-items: center;
+  width: 100%;
 }
 
 #header-img {
@@ -48,7 +49,7 @@ nav ul li {
 }
 
 #video-element {
-  margin-top: 50px;
+  margin-top: 0px;
   display: flex;
   justify-content: center;
 }
@@ -56,4 +57,12 @@ nav ul li {
 iframe {
   max-width: 560px;
   width: 100%;
+}
+
+#form-section {
+  width: 20%;
+  height: 200px;
+  margin-top: 50px;
+  margin: 0 auto;
+  align-items: center;
 }
