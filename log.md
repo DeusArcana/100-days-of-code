@@ -130,3 +130,8 @@
 	
 - Currently working on Product Landing Page Challenge in [FreeCodeCamp](https://freecodecamp.org)
 - Almost finished
+
+### Day 25: March 7, 2019
+	
+- Currently working on Product Landing Page Challenge in [FreeCodeCamp](https://freecodecamp.org)
+- All test passed, but still looking ugly.
