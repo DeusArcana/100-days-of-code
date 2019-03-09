@@ -135,3 +135,8 @@
 	
 - Currently working on Product Landing Page Challenge in [FreeCodeCamp](https://freecodecamp.org)
 - All test passed, but still looking ugly.
+
+### Day 26: March 8, 2019
+	
+- Practicing float property on [CSS Basics](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2018/course/) in EDX
+- Having some issues with VS Code
