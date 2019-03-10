@@ -140,3 +140,8 @@
 	
 - Practicing float property on [CSS Basics](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2018/course/) in EDX
 - Having some issues with VS Code
+
+### Day 27: March 8, 2019
+	
+- Product Landing Page Challenge completed in [FreeCodeCamp](https://freecodecamp.org)
+- All test passed, but still looking ugly.
