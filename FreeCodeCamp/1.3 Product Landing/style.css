@@ -98,3 +98,7 @@ footer {
   align-content: center;
   background-color: #DAFAFF;
 }
+
+footer p {
+  padding-left: 10%;
+}
