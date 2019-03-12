@@ -150,3 +150,8 @@
 	
 - Moving into Technical Documentation Challenge in [FreeCodeCamp](https://freecodecamp.org)
 - Focusing on the tests first
+
+### Day 29: March 11, 2019
+	
+- Currently working on Technical Documentation Challenge in [FreeCodeCamp](https://freecodecamp.org)
+- 14/16 test passed
