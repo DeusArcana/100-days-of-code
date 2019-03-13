@@ -155,3 +155,8 @@
 	
 - Currently working on Technical Documentation Challenge in [FreeCodeCamp](https://freecodecamp.org)
 - 14/16 test passed
+
+### Day 30: March 12, 2019
+	
+- Currently working on Technical Documentation Challenge in [FreeCodeCamp](https://freecodecamp.org)
+- Now it looks like in the example, I'm not sure if I have to follow that structure and design or how much personalization I must put on this
