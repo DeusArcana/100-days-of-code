@@ -65,6 +65,10 @@ p {
     color: #777;
 }
 
+ul {
+    color: #777;
+}
+
 code {
     display:block;
     /*font-family: 'Courier New', Courier, monospace;*/
