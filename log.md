@@ -160,3 +160,8 @@
 	
 - Currently working on Technical Documentation Challenge in [FreeCodeCamp](https://freecodecamp.org)
 - Now it looks like in the example, I'm not sure if I have to follow that structure and design or how much personalization I must put on this
+
+### Day 31: March 13, 2019
+	
+- Currently working on Technical Documentation Challenge in [FreeCodeCamp](https://freecodecamp.org)
+- Writing the actual documentation
