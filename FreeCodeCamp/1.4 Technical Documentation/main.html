@@ -11,6 +11,7 @@
         <header>SQL Documentation</header>
         <ul style="list-style: none;">
             <li><a class="nav-link" href="#Introduction_to_SQL">Introduction to SQL</a></li>
+            <li><a class="nav-link" href="#Common_Uses">Common Uses</a></li>
             <li><a class="nav-link" href="#SELECT">SELECT</a></li>
             <li><a class="nav-link" href="#INSERT">INSERT</a></li>
             <li><a class="nav-link" href="#UPDATE">UPDATE</a></li>
@@ -23,7 +24,7 @@
             <p>SQL is a standard language for accessing and manipulating databases. Using SQL, you can 
                 insert records, update records and delete records. You can also create new database objects
                 such as databases and tables.
-                <br>
+                <br> <br>
                 More advanced features include creating stored procedures (self contained scripts), views
                 (pre-made queries), and setting permissions on database objects (such as tables, stored
                 procedures, and views).
@@ -31,7 +32,7 @@
             <p>
                 So, what can SQL do?
                 <br>
-                <ul style="list-style: katakana;">
+                <ul style="list-style: square;">
                     <li>SQL can execute queries against a database</li>
                     <li>SQL can retrieve data from a database</li>
                     <li>SQL can insert records in a database</li>
@@ -43,6 +44,32 @@
                     <li>SQL can create views in a database</li>
                     <li>SQL can set permissions on tables, procedures, and views</li>
                 </ul>
+            </p>
+        </section>
+
+        <table class="db_ref"><caption>world</caption>
+            <tbody><tr><th>name</th><th>continent</th><th>area</th><th>population</th><th>gdp</th></tr>
+            <tr><td>Afghanistan</td><td>Asia</td><td class="r">652230</td><td class="r">25500100</td><td class="r">20343000000</td></tr>
+            <tr><td>Albania</td><td>Europe</td><td class="r">28748	</td><td class="r">2831741	</td><td class="r">12960000000	</td></tr>
+            <tr><td>Algeria</td><td>Africa</td><td class="r">2381741	</td><td class="r">37100000	</td><td class="r">188681000000	</td></tr>
+            <tr><td>Andorra</td><td>Europe</td><td class="r">468</td><td class="r">78115	</td><td class="r">3712000000	</td></tr><tr>
+            <td>Angola</td><td>Africa</td><td class="r">1246700	</td><td class="r">20609294	</td><td class="r">100990000000	</td></tr>
+            <tr>
+            <td colspan="5">....</td>
+            </tr>
+            </tbody>
+        </table>
+
+        <section class="main-section" id="Common_Uses">
+            <header>Common Uses</header>
+            <p>
+                SQL is used to manage databases. <em>Data Analysts </em> will use SQL to query tables of data 
+                and derive insights from it. <em>Data Scientists</em> will use SQL to load data into their models.
+                Data Engineers and database admnistrators will use SQL to ensure that everybody in their company has
+                easy and intuitive access to the data they need.
+                <br> <br>
+                Most websites will have a SQL backend that automatically stores everything from user details to user 
+                engagement across a particular app. 
             </p>
         </section>
         <section class="main-section" id="SELECT">

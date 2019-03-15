@@ -69,6 +69,28 @@ ul {
     color: #777;
 }
 
+.db_ref {
+    border: solid thin black;
+    padding-left: 0.6ex;
+    padding-right: 0.6ex;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+.db_ref th {
+    border: solid thin black;
+    text-align: left;
+    padding: .2em .7em;
+    vertical-align: top;
+}
+
+.db_ref td {
+    border: solid thin black;
+    text-align: left;
+    padding: .2em .7em;
+    vertical-align: top;
+}
+
 code {
     display:block;
     /*font-family: 'Courier New', Courier, monospace;*/
