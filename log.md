@@ -165,3 +165,8 @@
 	
 - Currently working on Technical Documentation Challenge in [FreeCodeCamp](https://freecodecamp.org)
 - Writing the actual documentation
+
+### Day 32: March 14, 2019
+	
+- Currently working on Technical Documentation Challenge in [FreeCodeCamp](https://freecodecamp.org)
+- Still writing the actual documentation, the course selected is [SQL Zoo](https://sqlzoo.net)
