@@ -12,6 +12,8 @@
         <ul style="list-style: none;">
             <li><a class="nav-link" href="#Introduction_to_SQL">Introduction to SQL</a></li>
             <li><a class="nav-link" href="#Common_Uses">Common Uses</a></li>
+            <li><a class="nav-link" href="#Creating_and_Droping_a_Database">Creating and Droping a Database</a></li>
+            <li><a class="nav-link" href="#Creating_and_Droping_a_Table">Creating and Droping a Table</a></li>
             <li><a class="nav-link" href="#SELECT">SELECT</a></li>
             <li><a class="nav-link" href="#INSERT">INSERT</a></li>
             <li><a class="nav-link" href="#UPDATE">UPDATE</a></li>
@@ -47,19 +49,6 @@
             </p>
         </section>
 
-        <table class="db_ref"><caption>world</caption>
-            <tbody><tr><th>name</th><th>continent</th><th>area</th><th>population</th><th>gdp</th></tr>
-            <tr><td>Afghanistan</td><td>Asia</td><td class="r">652230</td><td class="r">25500100</td><td class="r">20343000000</td></tr>
-            <tr><td>Albania</td><td>Europe</td><td class="r">28748	</td><td class="r">2831741	</td><td class="r">12960000000	</td></tr>
-            <tr><td>Algeria</td><td>Africa</td><td class="r">2381741	</td><td class="r">37100000	</td><td class="r">188681000000	</td></tr>
-            <tr><td>Andorra</td><td>Europe</td><td class="r">468</td><td class="r">78115	</td><td class="r">3712000000	</td></tr><tr>
-            <td>Angola</td><td>Africa</td><td class="r">1246700	</td><td class="r">20609294	</td><td class="r">100990000000	</td></tr>
-            <tr>
-            <td colspan="5">....</td>
-            </tr>
-            </tbody>
-        </table>
-
         <section class="main-section" id="Common_Uses">
             <header>Common Uses</header>
             <p>
@@ -72,6 +61,43 @@
                 engagement across a particular app. 
             </p>
         </section>
+
+        <section class="main-section" id="Creating_and_Droping_a_Database">
+            <header>Creating and Droping a Database</header>
+            <p>
+                To get started, we going to create a new database writing some SQL code, to this we are going to create a database
+                that is going to contain some data about countries, so we called <em>hello_world</em>, so to create the database we write something 
+                like this: 
+                <code> <em class="keywords">CREATE DATABASE</em> hello_world;</code>
+                Creating a database does not select it for use; you must do that explicitly. To make <em>hello_world</em> the current database,
+                you have to use this statement:
+                <code><em class="keywords">USE</em> hello_world;</code>
+                So, to drop a database, you have to use the next code:
+                <code><em class="keywords">DROP DATABASE</em> hello_world;</code>
+            </p>
+        </section>
+
+        <section class="main-section" id="Creating_and_Droping_a_Table">
+            <header>Creating and Droping a Table</header>
+            <p>
+                To store some data on our database, we need to create a table, a <em>table</em> is a collection of
+                related data held in a table format within a database, that consists of columns and rows. For this example,
+                we are going to create something that looks like this:
+                <table class="db_ref"><caption>countries</caption>
+                    <tbody><tr><th>name</th><th>continent</th><th>area</th><th>population</th><th>gdp</th></tr>
+                    <tr><td>Afghanistan</td><td>Asia</td><td class="r">652230</td><td class="r">25500100</td><td class="r">20343000000</td></tr>
+                    <tr><td>Albania</td><td>Europe</td><td class="r">28748</td><td class="r">2831741</td><td class="r">12960000000</td></tr>
+                    <tr><td>Algeria</td><td>Africa</td><td class="r">2381741</td><td class="r">37100000	</td><td class="r">188681000000 </td></tr>
+                    <tr><td>Andorra</td><td>Europe</td><td class="r">468</td><td class="r">78115</td><td class="r">3712000000</td></tr><tr>
+                    <td>Angola</td><td>Africa</td><td class="r">1246700	</td><td class="r">20609294</td><td class="r">100990000000</td></tr>
+                    <tr>
+                    <td colspan="5">....</td>
+                    </tr>
+                    </tbody>
+                </table>
+            </p>
+        </section>
+
         <section class="main-section" id="SELECT">
             <header>SELECT</header>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam veritatis omnis, 

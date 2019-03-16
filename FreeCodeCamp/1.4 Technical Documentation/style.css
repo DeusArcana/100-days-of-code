@@ -69,6 +69,11 @@ ul {
     color: #777;
 }
 
+.keywords {
+    color: blue;
+    font-style: normal;
+}
+
 .db_ref {
     border: solid thin black;
     padding-left: 0.6ex;
