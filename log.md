@@ -170,3 +170,8 @@
 	
 - Currently working on Technical Documentation Challenge in [FreeCodeCamp](https://freecodecamp.org)
 - Still writing the actual documentation, the course selected is [SQL Zoo](https://sqlzoo.net)
+
+### Day 33: March 15, 2019
+	
+- Currently working on Technical Documentation Challenge in [FreeCodeCamp](https://freecodecamp.org)
+- Still writing the actual documentation, I found how to highlight text within the `code` tag
