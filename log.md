@@ -175,3 +175,8 @@
 	
 - Currently working on Technical Documentation Challenge in [FreeCodeCamp](https://freecodecamp.org)
 - Still writing the actual documentation, I found how to highlight text within the `code` tag
+
+### Day 34: March 16, 2019
+	
+- Currently working on Technical Documentation Challenge in [FreeCodeCamp](https://freecodecamp.org)
+- Still writing the actual documentation, half of the work is done
