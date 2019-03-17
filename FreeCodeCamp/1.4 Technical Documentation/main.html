@@ -14,7 +14,7 @@
             <li><a class="nav-link" href="#Common_Uses">Common Uses</a></li>
             <li><a class="nav-link" href="#Creating_and_Droping_a_Database">Creating and Droping a Database</a></li>
             <li><a class="nav-link" href="#Creating_and_Droping_a_Table">Creating and Droping a Table</a></li>
-            <li><a class="nav-link" href="#SELECT">SELECT</a></li>
+            <li><a class="nav-link" href="#SELECT_Basics">SELECT Basics</a></li>
             <li><a class="nav-link" href="#INSERT">INSERT</a></li>
             <li><a class="nav-link" href="#UPDATE">UPDATE</a></li>
             <li><a class="nav-link" href="#DELETE">DELETE</a></li>
@@ -83,26 +83,56 @@
                 To store some data on our database, we need to create a table, a <em>table</em> is a collection of
                 related data held in a table format within a database, that consists of columns and rows. For this example,
                 we are going to create something that looks like this:
-                <table class="db_ref"><caption>countries</caption>
-                    <tbody><tr><th>name</th><th>continent</th><th>area</th><th>population</th><th>gdp</th></tr>
-                    <tr><td>Afghanistan</td><td>Asia</td><td class="r">652230</td><td class="r">25500100</td><td class="r">20343000000</td></tr>
-                    <tr><td>Albania</td><td>Europe</td><td class="r">28748</td><td class="r">2831741</td><td class="r">12960000000</td></tr>
-                    <tr><td>Algeria</td><td>Africa</td><td class="r">2381741</td><td class="r">37100000	</td><td class="r">188681000000 </td></tr>
-                    <tr><td>Andorra</td><td>Europe</td><td class="r">468</td><td class="r">78115</td><td class="r">3712000000</td></tr><tr>
-                    <td>Angola</td><td>Africa</td><td class="r">1246700	</td><td class="r">20609294</td><td class="r">100990000000</td></tr>
-                    <tr>
-                    <td colspan="5">....</td>
-                    </tr>
+                <table class="db_ref">
+                    <caption>countries</caption>
+                    <tbody>
+                        <tr><th>name</th><th>continent</th><th>area</th><th>population</th><th>gdp</th></tr>
+                        <tr><td>Afghanistan</td><td>Asia</td><td class="r">652230</td><td class="r">25500100</td><td class="r">20343000000</td></tr>
+                        <tr><td>Albania</td><td>Europe</td><td class="r">28748</td><td class="r">2831741</td><td class="r">12960000000</td></tr>
+                        <tr><td>Algeria</td><td>Africa</td><td class="r">2381741</td><td class="r">37100000	</td><td class="r">188681000000 </td></tr>
+                        <tr><td>Andorra</td><td>Europe</td><td class="r">468</td><td class="r">78115</td><td class="r">3712000000</td></tr><tr>
+                        <td>Angola</td><td>Africa</td><td class="r">1246700	</td><td class="r">20609294</td><td class="r">100990000000</td></tr>
+                        <tr><td colspan="5">....</td></tr>
                     </tbody>
                 </table>
+                <br>
+                To create this table the code in SQL looks like follows:
+                <code><em class="keywords">CREATE TABLE</em> countries(
+    name        <em class="keywords">VARCHAR</em>(<em class="numbers">128</em>),
+    continent   <em class="keywords">VARCHAR</em>(<em class="numbers">10</em>),
+    area        <em class="keywords">INT</em>,
+    population  <em class="keywords">INT</em>,
+    gdp         <em class="keywords">INT</em>
+);
+                </code>
+                <br>
+                You may have noticed that after the name of the column there are data definitions, this is because every column has and specific
+                type of data that can hold, so the following are examples of the most common field types in SQL:
+                <br><br>
+                <table class="db_ref">
+                    <tbody>
+                        <tr><td>INTEGER</td><td>A whole number</td></tr>
+                        <tr><td>VARCHAR(10)</td><td>Up to 10 characters.</td></tr>
+                        <tr><td>CHAR(10)</td><td>Fixed number of characters</td></tr>
+                        <tr><td>DATE</td><td>A date</td></tr>
+                        <tr><td>TIMESTAMP</td><td>Date and time</td></tr>
+                        <tr><td>FLOAT</td><td>Floating point numbers</td></tr>
+                    </tbody>
+                </table>
+                <br>
+                Then to drop a table, the syntax is as follows:
+                <code><em class="keywords">DROP TABLE</em> countries;</code>
             </p>
         </section>
 
-        <section class="main-section" id="SELECT">
-            <header>SELECT</header>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam veritatis omnis, 
-                    facere minima magnam magni dolorum totam ratione neque commodi natus fugiat, 
-                    maiores cumque eligendi aliquid quasi nisi! Facere, iste.</p>
+        <section class="main-section" id="SELECT_Basics">
+            <header>SELECT Basics</header>
+            <p>
+                The most simple way to retrieve data from a table is with the next code:
+                <code><em class="keywords">SELECT</em> * <em class="keywords">FROM</em> countries;</code>
+                This will retrieves everything from a table. This form is useful when you want to review your entire table, 
+                for example, after you've loaded it with your initial data set.
+            </p>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi ea iste,
                 officiis quaerat, dolor odio vero ipsum hic autem harum placeat enim beatae 
                 cupiditate sequi labore nihil, libero earum praesentium.</p>

@@ -74,6 +74,11 @@ ul {
     font-style: normal;
 }
 
+.numbers {
+    color: #FF8C00;
+    font-style: normal;
+}
+
 .db_ref {
     border: solid thin black;
     padding-left: 0.6ex;
@@ -97,6 +102,7 @@ ul {
 }
 
 code {
+    color:black;
     display:block;
     /*font-family: 'Courier New', Courier, monospace;*/
     text-align: left;
