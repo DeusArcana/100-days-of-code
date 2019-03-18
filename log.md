@@ -180,3 +180,8 @@
 	
 - Currently working on Technical Documentation Challenge in [FreeCodeCamp](https://freecodecamp.org)
 - Still writing the actual documentation, half of the work is done
+
+### Day 35: March 17, 2019
+	
+- Currently working on Technical Documentation Challenge in [FreeCodeCamp](https://freecodecamp.org)
+- Still writing the actual documentation, this is taking more than I though. Maybe choosing SQL it wasn't a good idea. xD
