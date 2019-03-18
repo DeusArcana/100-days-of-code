@@ -131,12 +131,30 @@
                 The most simple way to retrieve data from a table is with the next code:
                 <code><em class="keywords">SELECT</em> * <em class="keywords">FROM</em> countries;</code>
                 This will retrieves everything from a table. This form is useful when you want to review your entire table, 
-                for example, after you've loaded it with your initial data set.
+                for example, after you've loaded it with your initial data set. In this case, this code will show a result like the table that we
+                have seen before.
             </p>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi ea iste,
-                officiis quaerat, dolor odio vero ipsum hic autem harum placeat enim beatae 
-                cupiditate sequi labore nihil, libero earum praesentium.</p>
-            <code>Sample code</code>
+            <p>
+                In SQL we can retrieve specifics amounts of data by a <em class="keywords">WHERE</em> clause. So if we want to select, for example,
+                the <em>population</em> from Germany, we would do it like this:
+                <code><em class="keywords">SELECT</em> population <em class="keywords">FROM</em> world
+    <em class="keywords">WHERE</em> name = <em class="strings">'Germany'</em>;</code>
+            </p>
+            <p>
+                We can select many columns from the table, we can do this by separating the name of the fields with a comma (,). In the <em class="keywords">WHERE</em>
+                clause we can also check items of a list, so to do that we use the word <em class="keywords">IN</em> as follows:
+                <code><em class="keywords">SELECT</em> name, population <em class="keywords">FROM</em> world
+    <em class="keywords">WHERE</em> name <em class="keywords">IN</em> (<em class="strings">'Brazil'</em>, <em class="strings">'Russia'</em>, <em class="strings">'India'</em>, <em class="strings">'China'</em>);
+                </code>
+            </p>
+            <p>
+                When it cames to numbers, we can select from between a range of them, that means, we can ask in SQL if there are some values that belongs to an specific range.
+                We can do that with the <em class="keywords">BETWEEN</em> clause and the word <em class="keywords">AND</em>, the syntax to do that is like this:
+                <code><em class="keywords">SELECT</em> name, area <em class="keywords">FROM</em> world
+    <em class="keywords">WHERE</em> area <em class="keywords">BETWEEN</em> <em class="numbers">250000</em> <em class="keywords">AND</em> <em class="numbers">300000</em>;</code>
+            </p>
+            <p>There are many many more options to retrieve data from a database, to know more about it, you can check the syntax in
+                the documentation of <a href="https://dev.mysql.com/doc/refman/8.0/en/select.html" target="_blank">MySQL</a>, that is an opensource database.</p>
         </section>
         <section class="main-section" id="INSERT">
             <header>INSERT</header>

@@ -79,6 +79,11 @@ ul {
     font-style: normal;
 }
 
+.strings {
+    color: rgb(190, 106, 3);
+    font-style: normal;
+}
+
 .db_ref {
     border: solid thin black;
     padding-left: 0.6ex;
