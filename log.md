@@ -185,3 +185,8 @@
 	
 - Currently working on Technical Documentation Challenge in [FreeCodeCamp](https://freecodecamp.org)
 - Still writing the actual documentation, this is taking more than I though. Maybe choosing SQL it wasn't a good idea. xD
+
+### Day 36: March 18, 2019
+	
+- Currently working on Technical Documentation Challenge in [FreeCodeCamp](https://freecodecamp.org)
+- Almost finished, it looks pretty good. Tomorrow maybe comes the difficult part: the responsive design. =0
