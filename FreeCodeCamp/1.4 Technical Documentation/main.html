@@ -15,11 +15,12 @@
             <li><a class="nav-link" href="#Creating_and_Droping_a_Database">Creating and Droping a Database</a></li>
             <li><a class="nav-link" href="#Creating_and_Droping_a_Table">Creating and Droping a Table</a></li>
             <li><a class="nav-link" href="#SELECT_Basics">SELECT Basics</a></li>
-            <li><a class="nav-link" href="#INSERT">INSERT</a></li>
+            <li><a class="nav-link" href="#INSERT_Basics">INSERT Basics</a></li>
+            <li><a class="nav-link" href="#DELETE_Basics">DELETE Basics</a></li>
             <li><a class="nav-link" href="#UPDATE">UPDATE</a></li>
-            <li><a class="nav-link" href="#DELETE">DELETE</a></li>
         </ul>
     </nav>
+
     <main id="main-doc">
         <section class="main-section" id="#Introduction_to_SQL">
             <header>Introduction to SQL</header>
@@ -154,18 +155,49 @@
     <em class="keywords">WHERE</em> area <em class="keywords">BETWEEN</em> <em class="numbers">250000</em> <em class="keywords">AND</em> <em class="numbers">300000</em>;</code>
             </p>
             <p>There are many many more options to retrieve data from a database, to know more about it, you can check the syntax in
-                the documentation of <a href="https://dev.mysql.com/doc/refman/8.0/en/select.html" target="_blank">MySQL</a>, that is an opensource database.</p>
+                the documentation of <a href="https://dev.mysql.com/doc/refman/8.0/en/select.html" target="_blank">MySQL</a>, that is an opensource database management system.</p>
         </section>
-        <section class="main-section" id="INSERT">
-            <header>INSERT</header>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam veritatis omnis, 
-                    facere minima magnam magni dolorum totam ratione neque commodi natus fugiat, 
-                    maiores cumque eligendi aliquid quasi nisi! Facere, iste.</p>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi ea iste,
-                officiis quaerat, dolor odio vero ipsum hic autem harum placeat enim beatae 
-                cupiditate sequi labore nihil, libero earum praesentium.</p>
-            <code>Sample code</code>
+
+        <section class="main-section" id="INSERT_Basics">
+            <header>INSERT Basics</header>
+            <p>
+                We have been retrieving data from the database, but we haven't seen how to insert actual data on it. You can do this by using the keywords 
+                <em class="keywords">INSERT INTO</em> following by the name of the table, then use the keyword <em class="keywords">VALUE</em> following by the values on
+                parenthesis, in its most simple form, inserting a data looks like this:
+                <code><em class="keywords">INSERT INTO</em> countries
+    <em class="keywords">VALUES</em>
+        (<em class="strings">'my_country'</em>, <em class="strings">'America'</em>, <em class="numbers">2381741</em>, <em class="numbers">37100000</em>, <em class="numbers">188681000000</em>);
+                </code>
+                When you use this form you have to follow the column order in the table definition, otherwise you will get an error.
+            </p>
+            <p>
+                So, if you want to insert the data in other order, or if you only have certain data to insert into the table, you can change the order on which you will insert the data. 
+                This can be done by putting the columns on parenthesis after the table name, using the same example as before, the syntax looks like follows: 
+                <code><em class="keywords">INSERT INTO</em> countries (continent, name, area, population, gdp)
+    <em class="keywords">VALUES</em>
+        (<em class="strings">'America'</em>, <em class="strings">'my_country'</em>, <em class="numbers">2381741</em>, <em class="numbers">37100000</em>, <em class="numbers">188681000000</em>);
+                </code>
+                Using the syntax that we have seen before it's possible to insert another set of data just by putting a comma between the parentheis of every set. 
+            </p>
         </section>
+                
+        <section class="main-section" id="DELETE_Basics">
+            <header>DELETE Basics</header>
+                <p>
+                    Deleting data from a database it's rather simple (that's the main reason why you should be careful about it). In its most simple form, you use the keywords 
+                    <em class="keywords">DELETE FROM</em> following by the name of the table to delete all rows in a table.
+                    <code><em class="keywords">DELETE FROM</em> countries;</code>
+                </p>
+                <p>
+                    So, you can delete data given a condition, to do this, you can use the clause <em class="keywords">WHERE</em> that we have seen before. So, an example of this
+                    would look as follows: 
+                    <code><em class="keywords">DELETE FROM</em> countries
+    <em class="keywords">WHERE</em> name = <em class="strings">'Mexico'</em>;
+                    </code>
+                    To learn more about this, you can check the <a href="https://dev.mysql.com/doc/refman/8.0/en/delete.html">MySQL Documentation</a>.
+                </p>
+        </section>
+
         <section class="main-section" id="UPDATE">
             <header>UPDATE</header>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam veritatis omnis, 
@@ -176,17 +208,7 @@
                 cupiditate sequi labore nihil, libero earum praesentium.</p>
             <code>Sample code</code>
         </section>
-        <section class="main-section" id="DELETE">
-            <header>DELETE</header>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam veritatis omnis, 
-                    facere minima magnam magni dolorum totam ratione neque commodi natus fugiat, 
-                    maiores cumque eligendi aliquid quasi nisi! Facere, iste.</p>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi ea iste,
-                officiis quaerat, dolor odio vero ipsum hic autem harum placeat enim beatae 
-                cupiditate sequi labore nihil, libero earum praesentium.</p>
-            <code>Sample code</code>
-            <code>Sample code</code>
-        </section>
+
     </main>
 </body>
 </html>
