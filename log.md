@@ -190,3 +190,8 @@
 	
 - Currently working on Technical Documentation Challenge in [FreeCodeCamp](https://freecodecamp.org)
 - Almost finished, it looks pretty good. Tomorrow maybe comes the difficult part: the responsive design. =0
+
+### Day 37: March 19, 2019
+	
+- Currently working on Technical Documentation Challenge in [FreeCodeCamp](https://freecodecamp.org)
+- Documentation completed :D
