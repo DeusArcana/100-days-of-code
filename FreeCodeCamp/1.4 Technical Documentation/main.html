@@ -17,7 +17,8 @@
             <li><a class="nav-link" href="#SELECT_Basics">SELECT Basics</a></li>
             <li><a class="nav-link" href="#INSERT_Basics">INSERT Basics</a></li>
             <li><a class="nav-link" href="#DELETE_Basics">DELETE Basics</a></li>
-            <li><a class="nav-link" href="#UPDATE">UPDATE</a></li>
+            <li><a class="nav-link" href="#UPDATE_Basics">UPDATE Basics</a></li>
+            <li><a class="nav-link" href="#References">References</a></li>
         </ul>
     </nav>
 
@@ -198,15 +199,33 @@
                 </p>
         </section>
 
-        <section class="main-section" id="UPDATE">
-            <header>UPDATE</header>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam veritatis omnis, 
-                    facere minima magnam magni dolorum totam ratione neque commodi natus fugiat, 
-                    maiores cumque eligendi aliquid quasi nisi! Facere, iste.</p>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi ea iste,
-                officiis quaerat, dolor odio vero ipsum hic autem harum placeat enim beatae 
-                cupiditate sequi labore nihil, libero earum praesentium.</p>
-            <code>Sample code</code>
+        <section class="main-section" id="UPDATE_Basics">
+            <header>UPDATE Basics</header>
+            <p>
+                In SQL, the <em class="keywords">UPDATE</em> statement is used to modify existing records on a database, ´because of this you should
+                be careful when updating records in a table, an <em class="keywords">UPDATE</em> statement should always come with an <em class="keywords">WHERE</em>
+                statement, because if you omit it, all the records in a table will be modified. So, using the countries table, an <em class="keywords">UPDATE</em> instruction
+                example looks like this:
+                <code><em class="keywords">UPDATE</em> countries
+    <em class="keywords">SET</em> population = 20609294, area = 20381741
+    <em class="keywords">WHERE</em> name = <em class="strings">'China'</em>;
+                </code>
+            </p>
+            <p>
+                To know more about this, you can check the <a href="https://dev.mysql.com/doc/refman/8.0/en/update.html">MySQL Documentation</a>.
+            </p>
+        </section>
+
+        <section class="main-section" id="References">
+            <header>References</header>
+            <p>
+                All the content presented here can be consulted at the following sources:
+                <ul>
+                    <li><a href="https://sqlzoo.net">SQLZOO</a></li>
+                    <li><a href="https://dev.mysql.com/doc/">MySQL Documentation</a></li>
+                    <li><a href="https://www.w3schools.com/sql/">W3 Schools SQL Tutorial</a></li>
+                </ul>
+            </p>
         </section>
 
     </main>
