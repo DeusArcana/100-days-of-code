@@ -195,3 +195,8 @@
 	
 - Currently working on Technical Documentation Challenge in [FreeCodeCamp](https://freecodecamp.org)
 - Documentation completed :D
+
+### Day 38: March 20, 2019
+	
+- Technical Documentation Challenge completed in [FreeCodeCamp](https://freecodecamp.org)
+- Moving into Personal Portfolio Webpage project :D
