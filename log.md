@@ -200,3 +200,8 @@
 	
 - Technical Documentation Challenge completed in [FreeCodeCamp](https://freecodecamp.org)
 - Moving into Personal Portfolio Webpage project :D
+
+### Day 39: March 21, 2019
+	
+- Currently working on Personal Portfolio Webpage challenge in [FreeCodeCamp](https://freecodecamp.org)
+- Focusing on tests
