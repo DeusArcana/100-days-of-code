@@ -205,3 +205,8 @@
 	
 - Currently working on Personal Portfolio Webpage challenge in [FreeCodeCamp](https://freecodecamp.org)
 - Focusing on tests
+
+### Day 40: March 22, 2019
+	
+- Currently working on Personal Portfolio Webpage challenge in [FreeCodeCamp](https://freecodecamp.org)
+- Tests passed, just more CSS
