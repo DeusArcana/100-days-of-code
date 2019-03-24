@@ -210,3 +210,8 @@
 	
 - Currently working on Personal Portfolio Webpage challenge in [FreeCodeCamp](https://freecodecamp.org)
 - Tests passed, just more CSS
+
+### Day 41: March 23, 2019
+	
+- Currently working on Personal Portfolio Webpage challenge in [FreeCodeCamp](https://freecodecamp.org)
+- I found a way to store the images. And get them to my page. With Facebook.

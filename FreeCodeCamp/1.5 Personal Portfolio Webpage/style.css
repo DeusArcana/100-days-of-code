@@ -8,12 +8,13 @@ body {
 }
 
 nav {
+    position: fixed;
     width: 100%;
     background-color: aquamarine;
 }
     
 nav ul {
-  text-align: center;
+  text-align: right;
   margin: 0 auto;
 }
    
@@ -40,8 +41,24 @@ a {
 
 #projects {
     background-color: beige;
+    min-height: 55vh;
+    padding-top: 45vh;
+}
+
+#projects header {
+    margin-top: 50px;
+    margin-bottom: 30px;
+    color: #008080;
+    font-size: 1.7em;
+    font-weight: normal;
 }
 
 #contact-info {
     background-color: gainsboro;
 }
+
+img {
+    width: 180px;
+    height: 180px;
+    border-bottom: 2px solid lightblue;
+  }
