@@ -215,3 +215,8 @@
 	
 - Currently working on Personal Portfolio Webpage challenge in [FreeCodeCamp](https://freecodecamp.org)
 - I found a way to store the images. And get them to my page. With Facebook.
+
+### Day 42: March 24, 2019
+	
+- Currently working on Personal Portfolio Webpage challenge in [FreeCodeCamp](https://freecodecamp.org)
+- I got stuck with a CSS part. I don't know how to make my section to expand.
