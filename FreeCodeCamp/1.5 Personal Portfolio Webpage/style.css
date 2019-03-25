@@ -4,6 +4,7 @@ body {
 
 * {
     margin: 0;
+    padding: 0;
     text-align: center;
 }
 
@@ -42,11 +43,13 @@ a {
 #projects {
     background-color: beige;
     min-height: 55vh;
-    padding-top: 45vh;
+    padding-top: 25vh;
+    display: block;
+    overflow: hidden;
 }
 
 #projects header {
-    margin-top: 50px;
+    margin-top: 40px;
     margin-bottom: 30px;
     color: #008080;
     font-size: 1.7em;
@@ -57,8 +60,31 @@ a {
     background-color: gainsboro;
 }
 
+.project-tile {
+    display: inline-block;
+    border: 2px solid blue;
+    padding: 7px 7px 7px 7px;
+    background-color: azure;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.project-title {
+    margin: 0 auto;
+}
+
 img {
     width: 180px;
-    height: 180px;
+    height: 140px;
     border-bottom: 2px solid lightblue;
-  }
+}
+
+@media only screen and (max-width: 815px){
+    #projects {
+        /*margin: 40px 0;*/
+        padding-bottom: 30px;
+        display: inline-block;
+    }
+    
+}
