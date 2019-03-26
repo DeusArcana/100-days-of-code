@@ -220,3 +220,8 @@
 	
 - Currently working on Personal Portfolio Webpage challenge in [FreeCodeCamp](https://freecodecamp.org)
 - I got stuck with a CSS part. I don't know how to make my section to expand.
+
+### Day 43: March 25, 2019
+	
+- Currently working on Personal Portfolio Webpage challenge in [FreeCodeCamp](https://freecodecamp.org)
+- It's almost finished, just a couple of issues with the icons.
