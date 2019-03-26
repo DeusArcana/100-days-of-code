@@ -56,8 +56,18 @@ a {
     font-weight: normal;
 }
 
+#projects img {
+    width: 180px;
+    height: 140px;
+    border-bottom: 2px solid lightblue;
+}
+
 #contact-info {
     background-color: gainsboro;
+    min-height: 55vh;
+    padding-top: 25vh;
+    display: block;
+    overflow: hidden;
 }
 
 .project-tile {
@@ -74,10 +84,29 @@ a {
     margin: 0 auto;
 }
 
-img {
-    width: 180px;
-    height: 140px;
-    border-bottom: 2px solid lightblue;
+#contact-info header {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    color: #008080;
+    font-size: 1.7em;
+    font-weight: normal;
+}
+
+.contact-tile {
+    display: inline-block;
+    border: 2px solid blue;
+    padding: 7px 7px 7px 7px;
+    background-color: azure;
+    width: 80px;
+    height: 80px;
+    margin: 0 35px 45px 35px;
+    overflow: hidden;
+    border-radius: 100%;
+}
+
+#contact-info img {
+    height: 30px;
+    width: 30px;
 }
 
 @media only screen and (max-width: 815px){
