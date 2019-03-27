@@ -225,3 +225,8 @@
 	
 - Currently working on Personal Portfolio Webpage challenge in [FreeCodeCamp](https://freecodecamp.org)
 - It's almost finished, just a couple of issues with the icons.
+
+### Day 44: March 26, 2019
+	
+- Currently working on Personal Portfolio Webpage challenge in [FreeCodeCamp](https://freecodecamp.org)
+- Personal Portfolio Webpage Challenge completed. :D
