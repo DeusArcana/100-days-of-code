@@ -8,6 +8,17 @@ body {
     text-align: center;
 }
 
+a {
+    text-decoration: none;
+}
+
+#welcome-section {
+    top: 0;
+    min-height: 55vh;
+    padding-top: 45vh;
+    background-color: azure;
+}  
+
 nav {
     position: fixed;
     width: 100%;
@@ -25,20 +36,6 @@ nav ul li {
   line-height: 3em;
 }
 
-section {
-    height: 100vh;
-}
-
-a {
-    text-decoration: none;
-}
-
-#welcome-section {
-    top: 0;
-    min-height: 55vh;
-    padding-top: 45vh;
-    background-color: azure;
-}  
 
 #projects {
     background-color: beige;
@@ -94,19 +91,18 @@ a {
 
 .contact-tile {
     display: inline-block;
-    border: 2px solid blue;
-    padding: 7px 7px 7px 7px;
+    border: 2px solid aquamarine;
     background-color: azure;
-    width: 80px;
-    height: 80px;
+    width: 70px;
+    height: 70px;
     margin: 0 35px 45px 35px;
     overflow: hidden;
     border-radius: 100%;
 }
 
 #contact-info img {
-    height: 30px;
-    width: 30px;
+    max-height: 110%;
+    max-width: 110%;
 }
 
 @media only screen and (max-width: 815px){
