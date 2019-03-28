@@ -230,3 +230,8 @@
 	
 - Currently working on Personal Portfolio Webpage challenge in [FreeCodeCamp](https://freecodecamp.org)
 - Personal Portfolio Webpage Challenge completed. :D
+
+### Day 45: March 27, 2019
+	
+- Moved into Javascript Algorithms And Data Structures Certification in [FreeCodeCamp](https://freecodecamp.org)
+- Many coding challenges completed.
