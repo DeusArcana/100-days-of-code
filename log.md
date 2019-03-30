@@ -236,7 +236,12 @@
 - Moved into Javascript Algorithms And Data Structures Certification in [FreeCodeCamp](https://freecodecamp.org)
 - Many coding challenges completed.
 
-### Day 46: March 27, 2019
+### Day 46: March 28, 2019
 	
 - Doing Introduction to JavaScript in [FreeCodeCamp](https://freecodecamp.org)
 - 254 coding challenges completed.
+
+### Day 47: March 29, 2019
+	
+- Doing Introduction to JavaScript in [FreeCodeCamp](https://freecodecamp.org)
+- 276 coding challenges completed. Diving into Objects in JavaScript.
