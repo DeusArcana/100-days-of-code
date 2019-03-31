@@ -245,3 +245,8 @@
 	
 - Doing Introduction to JavaScript in [FreeCodeCamp](https://freecodecamp.org)
 - 276 coding challenges completed. Diving into Objects in JavaScript.
+
+### Day 48: March 30, 2019
+	
+- Doing Introduction to JavaScript in [FreeCodeCamp](https://freecodecamp.org)
+- Learning about complex objects in JavaScript.
