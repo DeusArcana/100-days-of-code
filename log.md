@@ -250,3 +250,8 @@
 	
 - Doing Introduction to JavaScript in [FreeCodeCamp](https://freecodecamp.org)
 - Learning about complex objects in JavaScript.
+
+### Day 49: March 31, 2019
+	
+- Doing Introduction to the ECMAScrip 6 in [FreeCodeCamp](https://freecodecamp.org)
+- 304 Challenges completed.
