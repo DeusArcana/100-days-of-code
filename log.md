@@ -255,3 +255,8 @@
 	
 - Doing Introduction to the ECMAScrip 6 in [FreeCodeCamp](https://freecodecamp.org)
 - 304 Challenges completed.
+
+### Day 50: April 1, 2019
+	
+- Doing Introduction to the ECMAScrip 6 in [FreeCodeCamp](https://freecodecamp.org)
+- Learning about arrow functions. This level of abstraction always has been difficult for me.
