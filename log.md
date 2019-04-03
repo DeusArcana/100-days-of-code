@@ -260,3 +260,8 @@
 	
 - Doing Introduction to the ECMAScrip 6 in [FreeCodeCamp](https://freecodecamp.org)
 - Learning about arrow functions. This level of abstraction always has been difficult for me.
+
+### Day 51: April 2, 2019
+	
+- Doing Introduction to the Regular Expression in [FreeCodeCamp](https://freecodecamp.org)
+- I don't have good memories dealing with this stuff. This is going to hurt. xD
