@@ -265,3 +265,8 @@
 	
 - Doing Introduction to the Regular Expression in [FreeCodeCamp](https://freecodecamp.org)
 - I don't have good memories dealing with this stuff. This is going to hurt. xD
+
+### Day 52: April 3, 2019
+	
+- Doing Introduction to the Regular Expression in [FreeCodeCamp](https://freecodecamp.org)
+- This is really interesting, I learned about special characters that I didn't know about.
