@@ -270,3 +270,8 @@
 	
 - Doing Introduction to the Regular Expression in [FreeCodeCamp](https://freecodecamp.org)
 - This is really interesting, I learned about special characters that I didn't know about.
+
+### Day 53: April 4, 2019
+	
+- Regular Expressions and Debugging sections finished in [FreeCodeCamp](https://freecodecamp.org)
+- Regular expressions were pretty tricky but I think that I did it well, Debugging section ironically was pretty easy. :P
