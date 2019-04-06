@@ -275,3 +275,8 @@
 	
 - Regular Expressions and Debugging sections finished in [FreeCodeCamp](https://freecodecamp.org)
 - Regular expressions were pretty tricky but I think that I did it well, Debugging section ironically was pretty easy. :P
+
+### Day 54: April 3, 2019
+	
+- Introduction to the Basic Data Structures in [FreeCodeCamp](https://freecodecamp.org)
+- This was more complicated than I thought. I was taught that arrays cannot be modified. :/
