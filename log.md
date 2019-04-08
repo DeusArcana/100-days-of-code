@@ -281,8 +281,12 @@
 - Introduction to the Basic Data Structures in [FreeCodeCamp](https://freecodecamp.org)
 - This was more complicated than I thought. I was taught that arrays cannot be modified. :/
 
-
 ### Day 55: April 4, 2019
 	
 - Doing Introduction to Basic Algorithm Scripting in [FreeCodeCamp](https://freecodecamp.org)
 - Simple things that don't look so simple. My lack of imagination is starting to emerge here.
+
+### Day 56: April 5, 2019
+	
+- Doing Introduction to Basic Algorithm Scripting in [FreeCodeCamp](https://freecodecamp.org)
+- Being a non-native english speaker gives you problems sometimes.
