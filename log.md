@@ -290,3 +290,8 @@
 	
 - Doing Introduction to Basic Algorithm Scripting in [FreeCodeCamp](https://freecodecamp.org)
 - Being a non-native english speaker gives you problems sometimes.
+
+### Day 57: April 6, 2019
+	
+- Doing Object Oriented Programming in [FreeCodeCamp](https://freecodecamp.org)
+- Kind of a complex notation.
