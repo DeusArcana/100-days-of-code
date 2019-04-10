@@ -276,22 +276,27 @@
 - Regular Expressions and Debugging sections finished in [FreeCodeCamp](https://freecodecamp.org)
 - Regular expressions were pretty tricky but I think that I did it well, Debugging section ironically was pretty easy. :P
 
-### Day 54: April 3, 2019
+### Day 54: April 5, 2019
 	
 - Introduction to the Basic Data Structures in [FreeCodeCamp](https://freecodecamp.org)
 - This was more complicated than I thought. I was taught that arrays cannot be modified. :/
 
-### Day 55: April 4, 2019
+### Day 55: April 6, 2019
 	
 - Doing Introduction to Basic Algorithm Scripting in [FreeCodeCamp](https://freecodecamp.org)
 - Simple things that don't look so simple. My lack of imagination is starting to emerge here.
 
-### Day 56: April 5, 2019
+### Day 56: April 7, 2019
 	
 - Doing Introduction to Basic Algorithm Scripting in [FreeCodeCamp](https://freecodecamp.org)
 - Being a non-native english speaker gives you problems sometimes.
 
-### Day 57: April 6, 2019
+### Day 57: April 8, 2019
 	
 - Doing Object Oriented Programming in [FreeCodeCamp](https://freecodecamp.org)
 - Kind of a complex notation.
+
+### Day 58: April 9, 2019
+	
+- Finishing Object Oriented Programming in [FreeCodeCamp](https://freecodecamp.org)
+- I heard people say that JavaScript is like Java. Nope, is not like Java, AT ALL!!!!
