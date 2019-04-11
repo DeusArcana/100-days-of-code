@@ -300,3 +300,8 @@
 	
 - Finishing Object Oriented Programming in [FreeCodeCamp](https://freecodecamp.org)
 - I heard people say that JavaScript is like Java. Nope, is not like Java, AT ALL!!!!
+
+### Day 59: April 10, 2019
+	
+- Doing Introduction to the Functional Programming in [FreeCodeCamp](https://freecodecamp.org)
+- This approach to Functional Programming is very good, step-by-step, very well explained. Wooow!!!
