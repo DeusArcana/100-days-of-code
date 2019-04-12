@@ -305,3 +305,8 @@
 	
 - Doing Introduction to the Functional Programming in [FreeCodeCamp](https://freecodecamp.org)
 - This approach to Functional Programming is very good, step-by-step, very well explained. Wooow!!!
+
+### Day 60: April 11, 2019
+	
+- Doing Introduction to the Functional Programming in [FreeCodeCamp](https://freecodecamp.org)
+- Ok, this is getting really deep. :(
