@@ -310,3 +310,8 @@
 	
 - Doing Introduction to the Functional Programming in [FreeCodeCamp](https://freecodecamp.org)
 - Ok, this is getting really deep. :(
+
+### Day 61: April 12, 2019
+	
+- Finishing Introduction to the Functional Programming in [FreeCodeCamp](https://freecodecamp.org)
+- I really need to work more on this topic.
