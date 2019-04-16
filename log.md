@@ -315,3 +315,8 @@
 	
 - Finishing Introduction to the Functional Programming in [FreeCodeCamp](https://freecodecamp.org)
 - I really need to work more on this topic.
+
+### Day 62: April 15, 2019
+	
+- Doing Introduction to the Intermediate Algorithm Scripting in [FreeCodeCamp](https://freecodecamp.org)
+- Thinking programmatically, is no that easy. 
