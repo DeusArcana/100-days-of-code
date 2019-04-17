@@ -320,3 +320,8 @@
 	
 - Doing Introduction to the Intermediate Algorithm Scripting in [FreeCodeCamp](https://freecodecamp.org)
 - Thinking programmatically, is no that easy. 
+
+### Day 63: April 16, 2019
+	
+- Doing Introduction to the Intermediate Algorithm Scripting in [FreeCodeCamp](https://freecodecamp.org)
+- The challenges are difficult this time. I scratched my head several times.
