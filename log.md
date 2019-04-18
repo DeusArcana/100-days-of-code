@@ -325,3 +325,8 @@
 	
 - Doing Introduction to the Intermediate Algorithm Scripting in [FreeCodeCamp](https://freecodecamp.org)
 - The challenges are difficult this time. I scratched my head several times.
+
+### Day 64: April 17, 2019
+	
+- Doing Introduction to the Intermediate Algorithm Scripting in [FreeCodeCamp](https://freecodecamp.org)
+- Difficult challenges, but for a reason I had fun with them. It feels weird.
