@@ -330,3 +330,8 @@
 	
 - Doing Introduction to the Intermediate Algorithm Scripting in [FreeCodeCamp](https://freecodecamp.org)
 - Difficult challenges, but for a reason I had fun with them. It feels weird.
+
+### Day 65: April 18, 2019
+	
+- Finishing Introduction to the Intermediate Algorithm Scripting in [FreeCodeCamp](https://freecodecamp.org)
+- Math problems were very different that I expected. You don't need to be good at math, you need to be good at logic.
