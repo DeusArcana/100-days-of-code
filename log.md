@@ -335,3 +335,8 @@
 	
 - Finishing Introduction to the Intermediate Algorithm Scripting in [FreeCodeCamp](https://freecodecamp.org)
 - Math problems were very different that I expected. You don't need to be good at math, you need to be good at logic.
+
+### Day 66: April 19, 2019
+	
+- Doing Introduction to the JavaScript Algorithms and Data Structures Projects in [FreeCodeCamp](https://freecodecamp.org)
+- Certainly more difficult, roman numerals are pretty complicated, no easy solution for that. 
