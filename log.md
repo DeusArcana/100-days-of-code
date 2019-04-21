@@ -340,3 +340,8 @@
 	
 - Doing Introduction to the JavaScript Algorithms and Data Structures Projects in [FreeCodeCamp](https://freecodecamp.org)
 - Certainly more difficult, roman numerals are pretty complicated, no easy solution for that. 
+
+### Day 67: April 20, 2019
+	
+- Doing Introduction to the JavaScript Algorithms and Data Structures Projects in [FreeCodeCamp](https://freecodecamp.org)
+- Half hour making a regex, half hour figuring out how to put my ideas in order.
