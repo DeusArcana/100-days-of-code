@@ -345,3 +345,8 @@
 	
 - Doing Introduction to the JavaScript Algorithms and Data Structures Projects in [FreeCodeCamp](https://freecodecamp.org)
 - Half hour making a regex, half hour figuring out how to put my ideas in order.
+
+### Day 68: April 21, 2019
+	
+- Doing Introduction to the JavaScript Algorithms and Data Structures Projects in [FreeCodeCamp](https://freecodecamp.org)
+- I got stuck again, I didn't even understand the solution that is given. :'(
