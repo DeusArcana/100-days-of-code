@@ -350,3 +350,7 @@
 	
 - Doing Introduction to the JavaScript Algorithms and Data Structures Projects in [FreeCodeCamp](https://freecodecamp.org)
 - I got stuck again, I didn't even understand the solution that is given. :'(
+
+### Day 69: April 22, 2019
+	
+- I spent mostly of my time reading about callback functions today.
