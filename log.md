@@ -354,3 +354,8 @@
 ### Day 69: April 22, 2019
 	
 - I spent mostly of my time reading about callback functions today.
+
+### Day 70: April 23, 2019
+	
+- Re-taking Introduction to the Functional Programming in [FreeCodeCamp](https://freecodecamp.org)
+- Maybe I miss something, or reading with some extra articles will help this time.
