@@ -359,3 +359,8 @@
 	
 - Re-taking Introduction to the Functional Programming in [FreeCodeCamp](https://freecodecamp.org)
 - Maybe I miss something, or reading with some extra articles will help this time.
+
+### Day 71: April 24, 2019
+	
+- Doing Introduction to the JavaScript Algorithms and Data Structures Projects in [FreeCodeCamp](https://freecodecamp.org)
+- Still struggling with callback functions, but I think I'm getting closer to the solution.
