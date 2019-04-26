@@ -364,3 +364,8 @@
 	
 - Doing Introduction to the JavaScript Algorithms and Data Structures Projects in [FreeCodeCamp](https://freecodecamp.org)
 - Still struggling with callback functions, but I think I'm getting closer to the solution.
+
+### Day 72: April 25, 2019
+	
+- Finishing Introduction to the JavaScript Algorithms and Data Structures Projects in [FreeCodeCamp](https://freecodecamp.org)
+- Finally I did it!!!!
