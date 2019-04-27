@@ -369,3 +369,8 @@
 	
 - Finishing Introduction to the JavaScript Algorithms and Data Structures Projects in [FreeCodeCamp](https://freecodecamp.org)
 - Finally I did it!!!!
+
+### Day 73: April 26, 2019
+	
+- Starting Front End Libraries Certification in [FreeCodeCamp](https://freecodecamp.org)
+- The first step on this is Bootstrap, I really need this, I'm not good doing pretty interfaces. :(
