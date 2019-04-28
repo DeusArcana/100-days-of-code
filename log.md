@@ -374,3 +374,8 @@
 	
 - Starting Front End Libraries Certification in [FreeCodeCamp](https://freecodecamp.org)
 - The first step on this is Bootstrap, I really need this, I'm not good doing pretty interfaces. :(
+
+### Day 74: April 27, 2019
+	
+- Finishing Introduction to jQuery in [FreeCodeCamp](https://freecodecamp.org)
+- Very funny lesson, animations seems pretty smooth.
