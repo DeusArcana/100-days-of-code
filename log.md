@@ -379,3 +379,8 @@
 	
 - Finishing Introduction to jQuery in [FreeCodeCamp](https://freecodecamp.org)
 - Very funny lesson, animations seems pretty smooth.
+
+### Day 75: April 28, 2019
+	
+- Doing Introduction to the Sass in [FreeCodeCamp](https://freecodecamp.org)
+- So basically CSS with variables, I've seen many websites to use it. It must be some reason for it.
