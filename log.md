@@ -382,10 +382,15 @@
 
 ### Day 75: April 28, 2019
 	
-- Doing Introduction to the Sass in [FreeCodeCamp](https://freecodecamp.org)
+- Doing Introduction to Sass in [FreeCodeCamp](https://freecodecamp.org)
 - So basically CSS with variables, I've seen many websites to use it. It must be some reason for it.
 
 ### Day 76: April 29, 2019
 	
-- Doing Introduction to the Sass in [FreeCodeCamp](https://freecodecamp.org)
+- Doing Introduction to Sass in [FreeCodeCamp](https://freecodecamp.org)
 - Programming with CSS looks very good. It will take some time to get used to it.
+
+### Day 77: April 30, 2019
+	
+- Doing Introduction to React in [FreeCodeCamp](https://freecodecamp.org)
+- Everything good about creating and composing JSX elements and functional components, very interesting.
