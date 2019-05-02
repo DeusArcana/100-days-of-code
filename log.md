@@ -394,3 +394,8 @@
 	
 - Doing Introduction to React in [FreeCodeCamp](https://freecodecamp.org)
 - Everything good about creating and composing JSX elements and functional components, very interesting.
+
+### Day 78: May 1, 2019
+	
+- Doing Introduction to React in [FreeCodeCamp](https://freecodecamp.org)
+- Very interesting lesson of Stateless Functional Components. I have some struggles with the logic involved.
