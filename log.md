@@ -399,3 +399,8 @@
 	
 - Doing Introduction to React in [FreeCodeCamp](https://freecodecamp.org)
 - Very interesting lesson of Stateless Functional Components. I have some struggles with the logic involved.
+
+### Day 79: May 2, 2019
+	
+- Doing Introduction to React in [FreeCodeCamp](https://freecodecamp.org)
+- Never the word 'state' has confused me so much in my life.
