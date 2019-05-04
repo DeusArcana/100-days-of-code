@@ -404,3 +404,8 @@
 	
 - Doing Introduction to React in [FreeCodeCamp](https://freecodecamp.org)
 - Never the word 'state' has confused me so much in my life.
+
+### Day 80: May 3, 2019
+	
+- Doing Introduction to React in [FreeCodeCamp](https://freecodecamp.org)
+- I think there is so much information to process at this point.
