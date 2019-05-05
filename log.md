@@ -409,3 +409,8 @@
 	
 - Doing Introduction to React in [FreeCodeCamp](https://freecodecamp.org)
 - I think there is so much information to process at this point.
+
+### Day 81: May 4, 2019
+	
+- Finishing Introduction to React in [FreeCodeCamp](https://freecodecamp.org)
+- Flow control in React seems difficult at first, but it's pretty simple.
