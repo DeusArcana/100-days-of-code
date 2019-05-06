@@ -414,3 +414,8 @@
 	
 - Finishing Introduction to React in [FreeCodeCamp](https://freecodecamp.org)
 - Flow control in React seems difficult at first, but it's pretty simple.
+
+### Day 82: May 5, 2019
+	
+- Doing Introduction to the Redux in [FreeCodeCamp](https://freecodecamp.org)
+- So, is an entire framework for the entire state of an application. It may make things way easier.
