@@ -419,3 +419,8 @@
 	
 - Doing Introduction to the Redux in [FreeCodeCamp](https://freecodecamp.org)
 - So, is an entire framework for the entire state of an application. It may make things way easier.
+
+### Day 83: May 5, 2019
+	
+- Doing Introduction to the Redux in [FreeCodeCamp](https://freecodecamp.org)
+- For a framework that makes states management more easy, is really complex.
