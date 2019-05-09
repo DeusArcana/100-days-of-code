@@ -424,3 +424,8 @@
 	
 - Doing Introduction to the Redux in [FreeCodeCamp](https://freecodecamp.org)
 - For a framework that makes states management more easy, is really complex.
+
+### Day 84: May 8, 2019
+	
+- Doing Introduction to the Redux in [FreeCodeCamp](https://freecodecamp.org)
+- Asynchronous Actions are unavoidable. Middlewares makes this more easy then I thought.
