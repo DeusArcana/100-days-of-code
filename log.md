@@ -424,3 +424,8 @@
 	
 - Doing Introduction to the Redux in [FreeCodeCamp](https://freecodecamp.org)
 - For a framework that makes states management more easy, is really complex.
+
+### Day 84: May 11, 2019
+	
+- Doing Introduction to the Redux in [FreeCodeCamp](https://freecodecamp.org)
+- I will restart the course on Redux because I didn't understand nothing, maybe a couple of exercises and videos will help me this time.
