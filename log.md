@@ -429,3 +429,8 @@
 	
 - Doing Introduction to the Redux in [FreeCodeCamp](https://freecodecamp.org)
 - I will restart the course on Redux because I didn't understand nothing, maybe a couple of exercises and videos will help me this time.
+
+### Day 85: May 13, 2019
+	
+- Doing introduction to JSX fundamentals.in [CodeAcademy](https://www.codecademy.com)
+- I'm learning the basics in CodeAcademy, it seems a little more easy, more explanation.
