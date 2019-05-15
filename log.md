@@ -434,3 +434,8 @@
 	
 - Doing introduction to JSX fundamentals.in [CodeAcademy](https://www.codecademy.com)
 - I'm learning the basics in CodeAcademy, it seems a little more easy, more explanation.
+
+### Day 86: May 14, 2019
+	
+- Doing introduction to JSX fundamentals.in [CodeAcademy](https://www.codecademy.com)
+- It's really simple and well explained, I like this step-by-step approach.
