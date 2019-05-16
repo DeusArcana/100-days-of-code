@@ -432,10 +432,15 @@
 
 ### Day 85: May 13, 2019
 	
-- Doing introduction to JSX fundamentals.in [CodeAcademy](https://www.codecademy.com)
+- Doing introduction to JSX fundamentals in [CodeAcademy](https://www.codecademy.com)
 - I'm learning the basics in CodeAcademy, it seems a little more easy, more explanation.
 
 ### Day 86: May 14, 2019
 	
-- Doing introduction to JSX fundamentals.in [CodeAcademy](https://www.codecademy.com)
+- Doing introduction to JSX fundamentals in [CodeAcademy](https://www.codecademy.com)
 - It's really simple and well explained, I like this step-by-step approach.
+
+### Day 87: May 15, 2019
+	
+- Doing introduction to JSX fundamentals in [CodeAcademy](https://www.codecademy.com)
+- I've learned a lot of things about the virtual DOM of React. The articles are simple to understand.
