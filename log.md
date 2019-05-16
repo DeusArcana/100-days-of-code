@@ -425,6 +425,7 @@
 - Doing Introduction to the Redux in [FreeCodeCamp](https://freecodecamp.org)
 - For a framework that makes states management more easy, is really complex.
 
+<<<<<<< HEAD
 ### Day 84: May 11, 2019
 	
 - Doing Introduction to the Redux in [FreeCodeCamp](https://freecodecamp.org)
@@ -444,3 +445,9 @@
 	
 - Doing introduction to JSX fundamentals in [CodeAcademy](https://www.codecademy.com)
 - I've learned a lot of things about the virtual DOM of React. The articles are simple to understand.
+=======
+### Day 84: May 8, 2019
+	
+- Doing Introduction to the Redux in [FreeCodeCamp](https://freecodecamp.org)
+- Asynchronous Actions are unavoidable. Middlewares makes this more easy then I thought.
+>>>>>>> 9d96f17563e08ff68ad0d67f244c91ef9b5733a8
