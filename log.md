@@ -454,3 +454,9 @@
 	
 - Doing React Components Interaction in [CodeAcademy](https://www.codecademy.com)
 - Simple but powerful examples is what makes this lessons so good. 
+
+### Day 90: May 21, 2019
+	
+- Doing React Components Interaction in [CodeAcademy](https://www.codecademy.com)
+- Passing components, variables and methods through files it's a little confusing, because you need to remember
+  when to use curly braces, when to use strings, etc etc. But all good until now.
