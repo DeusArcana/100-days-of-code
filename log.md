@@ -465,3 +465,8 @@
 	
 - Doing React Components Interaction in [CodeAcademy](https://www.codecademy.com)
 - Learning about props interaction between component.
+
+### Day 92: May 23, 2019
+	
+- Finishing React: Part I and starting React: Part II in [CodeAcademy](https://www.codecademy.com)
+- Making exercises about stateful and stateless components, and their relation with one another.
