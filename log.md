@@ -475,3 +475,8 @@
 	
 - Doing React: Part II in [CodeAcademy](https://www.codecademy.com)
 - Learning about Parent components updating props to Childs and Siblings, also about inline CSS. 
+
+### Day 94: May 25, 2019
+	
+- Doing React: Part II in [CodeAcademy](https://www.codecademy.com)
+- Learning about Container Components and Stateless Functional Components, some basic explanation at [Medium](https://medium.com/@learnreact/container-components-c0e67432e005)
