@@ -470,3 +470,8 @@
 	
 - Finishing React: Part I and starting React: Part II in [CodeAcademy](https://www.codecademy.com)
 - Making exercises about stateful and stateless components, and their relation with one another.
+
+### Day 93: May 24, 2019
+	
+- Doing React: Part II in [CodeAcademy](https://www.codecademy.com)
+- Learning about Parent components updating props to Childs and Siblings, also about inline CSS. 
