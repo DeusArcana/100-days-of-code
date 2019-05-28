@@ -485,3 +485,8 @@
 	
 - Doing React: Part II in [CodeAcademy](https://www.codecademy.com)
 - Learning about PropTypes on Functional Components.
+
+### Day 96: May 27, 2019
+	
+- Doing React: Part II in [CodeAcademy](https://www.codecademy.com)
+- Learning about React forms, controlled and uncontrolled components. 
