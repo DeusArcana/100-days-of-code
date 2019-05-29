@@ -490,3 +490,8 @@
 	
 - Doing React: Part II in [CodeAcademy](https://www.codecademy.com)
 - Learning about React forms, controlled and uncontrolled components. 
+
+### Day 97: May 28, 2019
+	
+- Doing React: Part II in [CodeAcademy](https://www.codecademy.com)
+- Learning about lifecycle methods on React, exercises make really easy to understand this.
