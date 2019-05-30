@@ -495,3 +495,8 @@
 	
 - Doing React: Part II in [CodeAcademy](https://www.codecademy.com)
 - Learning about lifecycle methods on React, exercises make really easy to understand this.
+
+### Day 98: May 29, 2019
+	
+- Doing React: Part II in [CodeAcademy](https://www.codecademy.com)
+- Learning about updating and unmounting lifecycle methods. Many methods for states and props.
