@@ -500,3 +500,8 @@
 	
 - Doing React: Part II in [CodeAcademy](https://www.codecademy.com)
 - Learning about updating and unmounting lifecycle methods. Many methods for states and props.
+
+### Day 99: May 30, 2019
+	
+- Finishing React: Part II in [CodeAcademy](https://www.codecademy.com) and so retaking Introduction to the Redux on [FreeCodeCamp](https://freecodecamp.org)
+- I feel a little bit more confident with React (just a little), so I think I can make it this time.
