@@ -503,5 +503,10 @@
 
 ### Day 99: May 30, 2019
 	
-- Finishing React: Part II in [CodeAcademy](https://www.codecademy.com) and so retaking Introduction to the Redux on [FreeCodeCamp](https://freecodecamp.org)
+- Finishing React: Part II in [CodeAcademy](https://www.codecademy.com) and so retaking Introduction to the Redux on [FreeCodeCamp](https://freecodecamp.org)/
 - I feel a little bit more confident with React (just a little), so I think I can make it this time.
+
+### Day 100: May 31, 2019
+	
+- Finishing Introduction to the Redux on [FreeCodeCamp](https://freecodecamp.org)
+- I finished this course with more confidence, and the concepts were becoming more clear as through I was advancing on the challenges.
